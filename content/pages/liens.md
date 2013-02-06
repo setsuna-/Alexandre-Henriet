@@ -49,7 +49,7 @@ Navigateur web développé chez Google, léger, performant, riche en plugins et 
 ### [Netbeans](http://fr.netbeans.org)
 Environnement de développement intégré (IDE) supportant les différents langages du web et disposant de nombreux plugins.
 ### [Ubuntu](http://www.ubuntu.com)
-Système d'exploitation GNU/Linux à la portée de tous, sécurisé, stable, robuste, libre et disposant de paquets relativement.
+Système d'exploitation GNU/Linux à la portée de tous, sécurisé, stable, robuste, libre et disposant de paquets relativement à jour.
 
 ## Hosting
 ### [Dropbox](http://www.dropbox.com)
@@ -58,7 +58,7 @@ Cloud disposant de clients de synchronisation pour PCs, smartphones et accessibl
 ### [Github](https://github.com)
 Service web d'hébergement et de versionning de projets reposant sur Git.
 ### [Bitbucket](https://bitbucket.org)
-Service web d'hébergement et de versionning de projets reposant sur Git offrant la possibilité de créer des dépôts privés gratuitement.
+Service web d'hébergement et de versionning de projets reposant sur Git et offrant la possibilité de créer des dépôts privés gratuitement.
 
 ## Misc
 ### [Trello](https://trello.com)
