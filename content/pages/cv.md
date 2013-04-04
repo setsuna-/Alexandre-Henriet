@@ -3,7 +3,7 @@ Menu: CV
 Author: Alexandre Henriet
 Slug: cv
 
-Informaticien de gestion avec plus de **6 ans** d'expérience professionnelle en développement applicatif orienté web, j'ai réalisé de nombreux projets **Symfony2**, Zend Framework et eZ Publish. Je dispose également d'une expérience limitée en **Ruby On Rails** et SpringMVC. J'exerce actuellement comme administrateur système spécialisé dans la stack LAMP.
+Informaticien de gestion avec plus de **6 ans** d'expérience professionnelle en développement applicatif orienté web, j'ai réalisé de nombreux projets **Symfony2**, Zend Framework et eZ Publish. Je dispose également d'une certaine expérience avec **Django** et **Ruby On Rails**. J'exerce actuellement comme administrateur système spécialisé dans la stack LAMP.
 
 ## Skills
 
@@ -20,7 +20,7 @@ eZ Publish, Drupal, Wordpress, Mediawiki, Dokuwiki, installation, configuration,
 GNU/Linux (Red hat, Centos, Debian, Gentoo, Ubuntu), Freebsd, Apache, Nginx, Lighttpd, MySQL server, PostgreSQL, Memcached, OpenSSH, OpenVPN, Vsftpd, Samba, Postfix, Iptables, Packet filter, Nagios, Zabbix, Bash scripting, Vim, Ansible, Puppet.
 
 ### Autres technologies {#Others .icon}
-Ruby, Rails, Java, SpringMVC, JPA/Hibernate, Perl, ...
+Python, Django, Ruby, Rails, Java, SpringMVC, JPA/Hibernate, Perl, ...
 
 
 
