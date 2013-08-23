@@ -52,12 +52,12 @@ Python, Django, Ruby, Rails, Java, SpringMVC, JPA/Hibernate, Perl, ...
   <tbody>
     <tr>
       <td>2013</td>
-      <td><a href="https://connect.sensiolabs.com/profile/setsuna">Symfony2 (level2)</a></td>
+      <td><a href="https://connect.sensiolabs.com/profile/setsuna">Symfony2 : Level 2</a></td>
       <td>SensioLabs</td>
     </tr>
     <tr>
       <td>2013</td>
-      <td><a href="https://connect.sensiolabs.com/profile/setsuna">Symfony2 (level1)</a></td>
+      <td><a href="https://connect.sensiolabs.com/profile/setsuna">Symfony2 : Level 1</a></td>
       <td>SensioLabs</td>
     </tr>
     <tr>
