@@ -24,7 +24,11 @@ Python, Django, Ruby, Rails, Java, SpringMVC, JPA/Hibernate, Perl, ...
 
 ## Recommandations
 
-### [Slock Bart, Architecte Infrastructure à ICTRA, Groupe SNCB](http://www.linkedin.com/in/bartslock) {.author .icon}
+### [Baele Pieter, Architecte Linux et Sécurité à ICTRA, Groupe SNCB](http://www.linkedin.com/in/pieterbaele) {.author .icon}
+
+<blockquote>Alexandre is technically very strong in both FOSS technologies (Linux and related) and development in different programming languages. His applications are always nicely themed and created with good code practices and architecture in mind. This is one of the main reasons why Alexandre is a good colleague to bring dev and ops closer together.</blockquote>
+
+### [Slock Bart, Architecte Middleware à ICTRA, Groupe SNCB](http://www.linkedin.com/in/bartslock) {.author .icon}
 
 <blockquote>Alexandre really was an added value to our team. He's very professional, eager to learn and try new things and comes up with interesting ideas and propositions to improve existing applications and work methods. 
 It was a pleasure to have him in our team, also because he likes to participate in a good atmosphere!</blockquote>
