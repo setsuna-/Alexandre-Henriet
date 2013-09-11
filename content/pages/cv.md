@@ -3,7 +3,7 @@ Menu: CV
 Author: Alexandre Henriet
 Slug: cv
 
-Informaticien de gestion avec plus de **6 ans** d'expérience professionnelle en développement applicatif orienté web, j'ai réalisé de nombreux projets **Symfony2**, Zend Framework et eZ Publish. Je dispose également d'une certaine expérience avec **Django** et **Ruby On Rails**. J'exerce actuellement comme administrateur système spécialisé dans la stack LAMP.
+Informaticien de gestion avec plus de **6 ans** d'expérience professionnelle en développement applicatif orienté web, j'ai réalisé de nombreux projets **Symfony2**, Zend Framework et eZ Publish. Je dispose également d'une certaine expérience avec **Django** et **Ruby On Rails**.
 
 ## Skills
 
@@ -11,7 +11,7 @@ Informaticien de gestion avec plus de **6 ans** d'expérience professionnelle en
 Industrialisation PHP, sécurité, performances, scalabilité, intégration continue, audits de code, analyses techniques et fonctionnelles, estimations de charge, suivi de projets, méthodologie SCRUM, assessments techniques dans le cadre de recrutements, coaching développeurs, formation clients.
 
 ### Développement PHP et Web {#Developer .icon}
-LAMP, PHP5, Zend Framework, Symfony2, Orienté Objet, modélisation UML, Design Patterns, tests unitaires et fonctionnels, debugging/profiling, Netbeans, Eclipse, SVN (Subversion), GIT, modélisation de bases de données, SQL, MySQL Workbench, MySQL Proxy, expressions régulières, rewrite rules, Web services, SOAP, REST, SoapUI, Wireshark, XML, XHTML, HTML5, CSS, CSS frameworks, Javascript, AJAX, JQuery, Less, Twitter Bootstrap, standards du W3C.
+LAMP, PHP5, Zend Framework, Symfony2, Doctrine, Twig, Orienté Objet, Design Patterns, tests unitaires et fonctionnels, PHPUnit, Behat, debugging/profiling, PHPStorm, Netbeans, Eclipse, SVN (Subversion), GIT, Composer, modélisation de bases de données, SQL, MySQL Workbench, MySQL Proxy, expressions régulières, rewrite rules, Web services, SOAP, REST, SoapUI, Wireshark, XML, XHTML, HTML5, CSS, CSS frameworks, Javascript, AJAX, JQuery, Twitter Bootstrap, standards du W3C.
 
 ### Systèmes de gestion de contenu {#CMS .icon}
 eZ Publish, Drupal, Wordpress, Mediawiki, Dokuwiki, installation, configuration, customization.
@@ -22,20 +22,22 @@ GNU/Linux (Red hat, Centos, Debian, Gentoo, Ubuntu), Freebsd, Apache, Nginx, Lig
 ### Autres technologies {#Others .icon}
 Python, Django, Ruby, Rails, Java, SpringMVC, JPA/Hibernate, Perl, ...
 
-
-
-
 ## Recommandations
+
+### [Slock Bart, Architecte Infrastructure à ICTRA, Groupe SNCB](http://www.linkedin.com/in/bartslock) {.author .icon}
+
+<blockquote>Alexandre really was an added value to our team. He's very professional, eager to learn and try new things and comes up with interesting ideas and propositions to improve existing applications and work methods. 
+It was a pleasure to have him in our team, also because he likes to participate in a good atmosphere!</blockquote>
 
 ### [Geert Beukeleirs, Chef de projet à ICTRA, Groupe SNCB](http://www.linkedin.com/in/geertbeukeleirs) {.author .icon}
 
 <blockquote>Alex has been delivering services on several of the projects carried out in my development team. I experienced Alex as a valued contributor to the projects. His knowledge and professional attitude, together with his ability to react and evaluate differents situations, help me to achieve my goals and targets. Alex is a person you can trust and build upon so I call upon his services very often knowing that I will have my information within high standards and within the deadline imposed. No doubt I would love to have him in my team as a direct report.</blockquote>
 
-### [Patrick Allaert, Architecte IT à ICTRA, Groupe SNCB](http://be.linkedin.com/in/patrickallaert) {.author .icon}
+### [Patrick Allaert, Architecte PHP à ICTRA, Groupe SNCB](http://be.linkedin.com/in/patrickallaert) {.author .icon}
 
 <blockquote>Alexandre is a developer I highly appreciate for the quality of his work and the impressive productivity he achieves. He works hard to keep many factors into account like security, performance, maintainability, readability,... During analysis and development he also has proven many times to provide great ideas without drifting from the actual scope.</blockquote>
 
-### [Olivier Garcia, Architecte IT à ICTRA, Groupe SNCB](http://fr.linkedin.com/in/0livier) {.author .icon}
+### [Olivier Garcia, Architecte PHP à ICTRA, Groupe SNCB](http://fr.linkedin.com/in/0livier) {.author .icon}
 
 <blockquote>Alexandre has a broad skill set and brings a lot to our team of architects. Rigorous, calm, producing quality work and always up to the task, it is a pleasure to work with him.</blockquote>
 
