@@ -3,7 +3,7 @@ Menu: CV
 Author: Alexandre Henriet
 Slug: cv
 
-Informaticien de gestion avec plus de **6 ans** d'expérience professionnelle en développement applicatif orienté web, j'ai réalisé de nombreux projets **Symfony2**, Zend Framework et eZ Publish. Je dispose également d'une certaine expérience avec **Django** et **Ruby On Rails**.
+Informaticien de gestion avec **10 ans** d'expérience professionnelle en développement applicatif orienté web, je suis spécialiste du language **PHP** et du framework **Symfony2**.
 
 ## Skills
 
@@ -56,6 +56,21 @@ It was a pleasure to have him in our team, also because he likes to participate 
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>2016</td>
+      <td>HTML5, CSS3</a></td>
+      <td>RealDolmen</td>
+    </tr>
+    <tr>
+      <td>2015</td>
+      <td>PHP ORM - Doctrine</a></td>
+      <td>RealDolmen</td>
+    </tr>
+    <tr>
+      <td>2015</td>
+      <td>PHP Symfony2 Advanced</a></td>
+      <td>RealDolmen</td>
+    </tr>
     <tr>
       <td>2013</td>
       <td><a href="https://connect.sensiolabs.com/profile/setsuna">Symfony2 : Level 2</a></td>
