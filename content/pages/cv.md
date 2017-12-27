@@ -3,21 +3,21 @@ Menu: CV
 Author: Alexandre Henriet
 Slug: cv
 
-Informaticien de gestion avec **10 ans** d'expérience professionnelle en développement applicatif orienté web, je suis spécialiste du language **PHP** et du framework **Symfony2**.
+Informaticien de gestion avec **12 ans** d'expérience professionnelle en développement applicatif orienté web, je suis spécialiste du language **PHP** et du framework **Symfony**.
 
-## Skills
+## Compétences
 
 ### Architecte PHP {#Architect .icon}
 Industrialisation PHP, sécurité, performances, scalabilité, intégration continue, audits de code, analyses techniques et fonctionnelles, estimations de charge, suivi de projets, méthodologie SCRUM, assessments techniques dans le cadre de recrutements, coaching développeurs, formation clients.
 
 ### Développement PHP et Web {#Developer .icon}
-LAMP, PHP5, Zend Framework, Symfony2, Doctrine, Twig, Orienté Objet, Design Patterns, tests unitaires et fonctionnels, PHPUnit, Behat, debugging/profiling, PHPStorm, Netbeans, Eclipse, SVN (Subversion), GIT, Composer, modélisation de bases de données, SQL, MySQL Workbench, MySQL Proxy, expressions régulières, rewrite rules, Web services, SOAP, REST, SoapUI, Wireshark, XML, XHTML, HTML5, CSS, CSS frameworks, Javascript, AJAX, JQuery, Twitter Bootstrap, standards du W3C.
+LAMP, PHP, Symfony, Zend Framework, Doctrine, Twig, Orienté Objet, Design Patterns, tests unitaires et fonctionnels, PHPUnit, Behat, debugging/profiling, PHPStorm, Netbeans, Eclipse, SVN (Subversion), GIT, Composer, modélisation de bases de données, SQL, MySQL Workbench, MySQL Proxy, expressions régulières, rewrite rules, Web services, SOAP, REST, SoapUI, Wireshark, XML, XHTML, HTML5, CSS, CSS frameworks, Javascript, AJAX, JQuery, AngularJS, Bootstrap, standards du W3C.
 
 ### Systèmes de gestion de contenu {#CMS .icon}
 eZ Publish, Drupal, Wordpress, Mediawiki, Dokuwiki, installation, configuration, customization.
 
 ### Administration Linux {#Linux .icon}
-GNU/Linux (Red hat, Centos, Debian, Gentoo, Ubuntu), Freebsd, Apache, Nginx, Lighttpd, MySQL server, PostgreSQL, Memcached, OpenSSH, OpenVPN, Vsftpd, Samba, Postfix, Iptables, Packet filter, Nagios, Zabbix, Bash scripting, Vim, Ansible, Puppet.
+GNU/Linux (Red hat, Centos, Debian, Gentoo, Ubuntu), Freebsd, Apache, Nginx, Lighttpd, MariaDB, MySQL, PostgreSQL, Memcached, OpenSSH, OpenVPN, Vsftpd, Samba, Postfix, Iptables, Packet filter, Nagios, Zabbix, Bash scripting, Vim, Ansible, Puppet.
 
 ### Autres technologies {#Others .icon}
 Python, Django, Ruby, Rails, Java, SpringMVC, JPA/Hibernate, Perl, ...
@@ -30,7 +30,7 @@ Python, Django, Ruby, Rails, Java, SpringMVC, JPA/Hibernate, Perl, ...
 
 ### [Slock Bart, Architecte Middleware à ICTRA, Groupe SNCB](http://www.linkedin.com/in/bartslock) {.author .icon}
 
-<blockquote>Alexandre really was an added value to our team. He's very professional, eager to learn and try new things and comes up with interesting ideas and propositions to improve existing applications and work methods. 
+<blockquote>Alexandre really was an added value to our team. He's very professional, eager to learn and try new things and comes up with interesting ideas and propositions to improve existing applications and work methods.
 It was a pleasure to have him in our team, also because he likes to participate in a good atmosphere!</blockquote>
 
 ### [Geert Beukeleirs, Chef de projet à ICTRA, Groupe SNCB](http://www.linkedin.com/in/geertbeukeleirs) {.author .icon}
@@ -58,17 +58,17 @@ It was a pleasure to have him in our team, also because he likes to participate 
   <tbody>
     <tr>
       <td>2016</td>
-      <td>HTML5, CSS3</a></td>
+      <td>HTML5, CSS3</td>
       <td>RealDolmen</td>
     </tr>
     <tr>
       <td>2015</td>
-      <td>PHP ORM - Doctrine</a></td>
+      <td>PHP ORM - Doctrine</td>
       <td>RealDolmen</td>
     </tr>
     <tr>
       <td>2015</td>
-      <td>PHP Symfony2 Advanced</a></td>
+      <td>PHP Symfony2 Advanced</td>
       <td>RealDolmen</td>
     </tr>
     <tr>
